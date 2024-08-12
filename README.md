@@ -1,2 +1,2 @@
 # specialSayisalLoto
-1. sınıf projelerimden biri
+Belirlenen kurallara göre sayısal loto şans oyununu model alan java programı.
